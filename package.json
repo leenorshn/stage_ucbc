@@ -1,0 +1,23 @@
+{
+  "name": "projet_one",
+  "version": "1.0.0",
+  "description": "hello world project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "mongodb",
+    "mysql"
+  ],
+  "author": "leenorshn",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.4"
+  }
+}
